@@ -2,425 +2,462 @@
 title: "Shubham Raj — GitHub Profile README"
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2bffc6?style=for-the-badge&logo=briefcase&logoColor=0b1220" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Role-Software%20Development%20Engineer-7c5cff?style=for-the-badge&logo=dev.to&logoColor=ffffff" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-India-1e90ff?style=for-the-badge&logo=mapbox&logoColor=fff" alt="Location" />
-</p>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&lines=👋+Welcome+to+Shubham+Raj's+Profile;💻+Software+Development+Engineer;🚀+Building+Scalable+Systems;☁️+Cloud+%26+Backend+Enthusiast&center=true&width=800" alt="Typing Animation"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&lines=Shubham+Raj+%7C+Software+Development+Engineer;C%2B%2B+%7C+Python+%7C+Cloud+%7C+Machine+Learning&center=true&width=760&height=60&color=7c5cff" alt="Typing Header" />
-</p>
-
-<p align="center">
-  <strong style="font-size:14px; color:#9aa0a6;">Final-year B.Tech Computer Science • Seeking SDE roles • Open Source Contributor • System Design & Cloud enthusiast</strong>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2bffc6?style=for-the-badge&logo=briefcase&logoColor=0b1220&labelColor=1a1a2e" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Role-SDE%20%7C%20Backend-ff6b9d?style=for-the-badge&logo=dev.to&logoColor=ffffff&labelColor=1a1a2e" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-India-1e90ff?style=for-the-badge&logo=mapbox&logoColor=fff&labelColor=1a1a2e" alt="Location" />
 </p>
 
 ---
 
-## Summary
+## 🎯 Quick Navigation
 
-- Name: Shubham Raj
-- Current: Final-year B.Tech — Computer Science
-- Looking for: Software Development Engineer (Backend / Cloud / ML-focused roles)
-- Core strengths: Data Structures & Algorithms, Backend Development, Cloud (AWS), C++ & Python, ASP.NET MVC
-- Seeking: Full-time SDE roles | Internships & Open Source collaboration
-- Location: India (open to remote & relocation)
+<div align="center">
+  
+| 💡 About | 🛠️ Skills | 📚 Projects | 🏆 Achievements | 📊 Stats | 🔗 Links |
+|---------|---------|-----------|--------------|---------|---------|
+| [About Me](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-selected-projects) | [Awards](#achievements--certifications) | [GitHub Stats](#-github-statistics) | [Contact](#contact-info) |
+
+</div>
 
 ---
 
+## 👋 About Me
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🎓 Education</b><br>
+      Final-year B.Tech in Computer Science<br>
+      
+      <b>🔍 Current Focus</b><br>
+      Backend Systems • Cloud Architecture • Machine Learning
+      
+      <b>🌍 Location</b><br>
+      India (Open to Remote & Relocation)
+    </td>
+    <td width="50%">
+      <b>💼 Specialization</b><br>
+      Data Structures & Algorithms<br>
+      System Design & Architecture<br>
+      Cloud Services (AWS)
+      
+      <b>🎯 Goal</b><br>
+      Full-time SDE roles in Backend/Cloud/ML Infrastructure
+    </td>
+  </tr>
+</table>
+
+I'm a passionate software engineer focused on building **reliable, scalable backend systems** and **data-driven applications**. I combine strong algorithmic foundations with practical systems thinking to craft production-grade solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### **👨‍💻 Programming Languages**
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-raj-a0979a289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/er-shubham-raj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-er--shubham--raj-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:er.rajshubham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-er.rajshubham%40gmail.com-7c5cff?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-Modern%20STL-2bffc6?style=for-the-badge&logo=cplusplus&logoColor=000&labelColor=1a1a2e" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3.11%2B-ff6b9d?style=for-the-badge&logo=python&logoColor=fff&labelColor=1a1a2e" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-ASP.NET-5dfbcb?style=for-the-badge&logo=csharp&logoColor=000&labelColor=1a1a2e" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-Core%20%26%20Streams-1e90ff?style=for-the-badge&logo=java&logoColor=fff&labelColor=1a1a2e" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-ffa116?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=1a1a2e" alt="SQL" />
+</p>
+
+### **🌐 Web & Backend**
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET-MVC%20Pattern-7c5cff?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=1a1a2e" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Design%20%26%20Auth-ff6b9d?style=for-the-badge&logo=fastapi&logoColor=fff&labelColor=1a1a2e" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Flask-Microservices-2bffc6?style=for-the-badge&logo=flask&logoColor=000&labelColor=1a1a2e" alt="Flask" />
+  <img src="https://img.shields.io/badge/HTML5%2FCSS3%2FJS-Frontend-ffa116?style=for-the-badge&logo=html5&logoColor=fff&labelColor=1a1a2e" alt="Web" />
+</p>
+
+### **☁️ Cloud & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EC2%2CS3%2CLambda-ff6b9d?style=for-the-badge&logo=amazonaws&logoColor=fff&labelColor=1a1a2e" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-1e90ff?style=for-the-badge&logo=docker&logoColor=fff&labelColor=1a1a2e" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-5dfbcb?style=for-the-badge&logo=githubactions&logoColor=000&labelColor=1a1a2e" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Kubernetes-Basics-7c5cff?style=for-the-badge&logo=kubernetes&logoColor=fff&labelColor=1a1a2e" alt="Kubernetes" />
+</p>
+
+### **🗄️ Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Relational%20Design-2bffc6?style=for-the-badge&logo=mysql&logoColor=000&labelColor=1a1a2e" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL%20%26%20Indexing-ff6b9d?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1a1a2e" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Advanced%20Queries-1e90ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff&labelColor=1a1a2e" alt="SQL Server" />
+</p>
+
+### **🤖 Machine Learning & Data**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-ffa116?style=for-the-badge&logo=tensorflow&logoColor=fff&labelColor=1a1a2e" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-ML%20Pipelines-5dfbcb?style=for-the-badge&logo=scikitlearn&logoColor=000&labelColor=1a1a2e" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Engineering-2bffc6?style=for-the-badge&logo=pandas&logoColor=000&labelColor=1a1a2e" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-7c5cff?style=for-the-badge&logo=numpy&logoColor=fff&labelColor=1a1a2e" alt="NumPy" />
+</p>
+
+### **🎯 Core Competencies**
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Expert-2bffc6?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/System%20Design-Advanced-1e90ff?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/OOP-Mastery-ff6b9d?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/DBMS-Production%20Grade-5dfbcb?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/OS-Fundamentals-ffa116?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Networks-TCP%2FIP-7c5cff?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
 
+## 🚀 Current Learning Path
+
+<div align="center">
+  
+```
+┌─────────────────────────────────────────────────────────┐
+│ 🎓 Advanced DSA → System Design → Distributed Systems  │
+│ 📦 Microservices → Kubernetes → Production Patterns    │
+│ 🔐 Security Best Practices → Cloud Optimization        │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<details open>
+  <summary><b>📋 Detailed Learning Roadmap</b></summary>
+
+- **📊 Advanced Algorithms**: Graphs, trees, segment trees, suffix arrays
+- **🏗️ System Design**: Database partitioning, caching, message queues, rate limiting
+- **🔄 Distributed Systems**: Consensus algorithms (Raft/Paxos), replication strategies
+- **🧩 Microservices**: Idempotency, eventual consistency, service contracts
+- **🐳 Containerization**: Multi-stage Docker builds, Kubernetes orchestration
+- **☁️ Cloud Infrastructure**: IaC basics, serverless patterns, AWS best practices
+- **🤖 ML Systems**: Feature stores, model serving, inference optimization
+
+</details>
+
+---
+
+## 🏆 Selected Projects
+
+### **1️⃣ SR Library — Enterprise Smart Library Management**
+<p>
+  <img src="https://img.shields.io/badge/Backend-C%23%20ASP.NET%20MVC-2bffc6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-ff6b9d?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap-1e90ff?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+**Role:** Full-stack design & backend implementation
+
+**Key Features:**
+- 🔐 Role-based Authentication & Authorization
+- 📚 Book issue/return workflow with comprehensive logging
+- 💰 Fine management system with overdue tracking
+- 📊 Administrative dashboard with advanced reporting (CSV/PDF export)
+- 🗂️ Normalized DB schema with optimized indexes
+
+<details>
+  <summary>📖 Technical Architecture & Implementation</summary>
+
+- **Design Pattern**: MVC with repository and service layers
+- **Database**: Stored procedures for complex aggregations and reports
+- **Performance**: Caching layer for frequently accessed metadata
+- **Testing**: Unit & integration tests for core services
+- **Future**: Microservices migration, async background jobs
+
+</details>
+
+---
+
+### **2️⃣ VitalVision — AI Patient Risk Prioritization**
+<p>
+  <img src="https://img.shields.io/badge/ML-Scikit%20Learn-5dfbcb?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Backend-Flask%20API-7c5cff?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Deployment-Docker-ffa116?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+**Role:** Data engineer & ML modeler
+
+**Key Features:**
+- 🎯 Risk prediction model for clinical triage prioritization
+- 🔍 REST API with batch scoring capabilities
+- 🔧 Robust data pipeline with feature engineering
+- 📈 Model explainability with feature importance metrics
+- 🐳 Dockerized inference service
+
+<details>
+  <summary>🤖 ML Modeling & Deployment Details</summary>
+
+- **Models**: Logistic regression & tree-based ensembles (ROC-AUC optimized)
+- **Preprocessing**: Robust handling of missing clinical fields
+- **API**: Flask with input validation and rate limiting
+- **Monitoring**: Input drift detection for model health
+- **Insight**: Transparent outputs improve clinician trust
+
+</details>
+
+---
+
+### **3️⃣ Product Management System**
+<p>
+  <img src="https://img.shields.io/badge/Tech-ASP.NET%20MVC-2bffc6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-ff6b9d?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Security-RBAC-1e90ff?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+**Focus:** Enterprise-grade product workflow management
+
+**Implementation:**
+- Repository & Unit-of-Work patterns
+- Dependency injection with IoC container
+- Role-based access control at multiple layers
+- Structured audit logging for compliance
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Modern%20C%2B%2B-2bffc6?style=for-the-badge&logo=c%2B%2B&logoColor=000" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3.11-1e90ff?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/ASP.NET-MVC-7c5cff?style=for-the-badge&logo=dotnet&logoColor=fff" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-00d1b2?style=for-the-badge&logo=amazon-aws&logoColor=fff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-5dfbcb?style=for-the-badge&logo=TensorFlow&logoColor=fff" alt="ML" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er-shubham-raj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2bffc6&text_color=fff&icon_color=ff6b9d" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-shubham-raj&theme=react-dark&hide_border=true&stroke=2bffc6&ring=ff6b9d&fire=ff6b9d" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-shubham-raj&hide_border=true&theme=radical&langs_count=8&layout=compact&bg_color=0d1117&title_color=2bffc6&text_color=fff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=er-shubham-raj&theme=discord&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-### About Me
+## 🎓 Achievements & Certifications
 
-I am a final-year B.Tech Computer Science student focused on building reliable, scalable backend systems and data-driven applications. I bring a strong foundation in algorithms and systems thinking, combined with hands-on experience in backend frameworks, cloud services (AWS), and machine learning pipelines. I contribute to open-source projects and prepare for industry roles in software engineering and cloud-native systems.
+<div align="center">
 
-Key attributes:
-- Strong foundation in DSA, OOP, and System Design
-- Backend-first mindset: APIs, authentication, data modeling, and performance
-- Cloud-aware: infrastructure fundamentals, serverless basics
-- Practical engineering: unit testing, CI/CD, observability
-- Product-oriented collaboration with emphasis on performance and UX
+| 🥇 Achievement | 📅 Year | 📌 Details |
+|---------------|--------|-----------|
+| College Hackathon Winner | [Add Year] | [Add Title & Recognition] |
+| AWS Cloud Practitioner | [Add Year] | [Link to Credential] |
+| DSA Specialization | [Add Year] | [Link to Certificate] |
+
+</div>
+
+<details>
+  <summary><b>🏅 Expand for More Certifications</b></summary>
+
+- 🏆 AWS Certified Cloud Practitioner
+- 🎯 Data Structures & Algorithms Specialization
+- 💻 Advanced System Design
+- 📚 Additional professional certifications (links available on request)
+
+</details>
 
 ---
+
+## 🤝 Open Source & Community
+
+<div align="center">
+
+| 🔗 Platform | 💬 Handle | 📍 Links |
+|-----------|----------|---------|
+| **LeetCode** | Shubham-Raj | [![LeetCode](https://img.shields.io/badge/LeetCode-2bffc6?style=for-the-badge&logo=leetcode&logoColor=000&labelColor=1a1a2e)](https://leetcode.com/u/Shubham-Raj/) |
+| **HackerRank** | [Add Username] | [![HackerRank](https://img.shields.io/badge/HackerRank-ff6b9d?style=for-the-badge&logo=hackerrank&logoColor=fff&labelColor=1a1a2e)](https://www.hackerrank.com/YOUR_USERNAME) |
+| **CodeChef** | [Add Username] | [![CodeChef](https://img.shields.io/badge/CodeChef-1e90ff?style=for-the-badge&logo=codechef&logoColor=fff&labelColor=1a1a2e)](https://www.codechef.com/users/YOUR_USERNAME) |
+| **GeeksforGeeks** | [Add Username] | [![GFG](https://img.shields.io/badge/GeeksforGeeks-5dfbcb?style=for-the-badge&logo=geeksforgeeks&logoColor=000&labelColor=1a1a2e)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME) |
+
+</div>
+
+**Open Source Contributions:**
+- 🚀 Backend API performance optimizations
+- 🔒 Enhanced input validation & security
+- 📖 Improved documentation & testing practices
+- 🐛 Bug fixes in distributed systems libraries
+
+---
+
+## 💼 Recruiter-Friendly Snapshot
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║                    QUICK PROFILE                       ║
+╠════════════════════════════════════════════════════════╣
+║ 📍 Role: Software Development Engineer (Backend/Cloud) ║
+║ 🎓 Degree: B.Tech Computer Science (Final Year)       ║
+║ 🌍 Location: India (Open to Remote & Relocation)      ║
+║ 💻 Languages: C++, Python, C#, Java                   ║
+║ ☁️ Cloud: AWS (EC2, S3, Lambda, IAM, Route53)         ║
+║ 📦 Specialization: Backend, System Design, ML Infra   ║
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+**Looking for:** Full-time SDE roles with emphasis on backend architecture, cloud systems, or ML infrastructure
+
+---
+
+## 📞 Contact Info
+
+<div align="center">
+
+| 📧 Email | 💼 LinkedIn | 🐙 GitHub | 📄 Resume |
+|---------|-----------|---------|---------|
+| [![Email](https://img.shields.io/badge/Email-er.rajshubham%40gmail.com-ff6b9d?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1a1a2e)](mailto:er.rajshubham@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Raj-1e90ff?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e)](https://www.linkedin.com/in/shubham-raj-a0979a289/) | [![GitHub](https://img.shields.io/badge/GitHub-er--shubham--raj-2bffc6?style=for-the-badge&logo=github&logoColor=000&labelColor=1a1a2e)](https://github.com/er-shubham-raj) | [📥 Add Resume Link](#) |
+
+</div>
+
+**For Recruiters:** Email with role details, tech stack, and timeline. I'll respond promptly with availability and tailored resume.
+
+---
+
+## 🌟 Skills Summary
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-💪%20Expert-2bffc6?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/System%20Design-🎯%20Advanced-ff6b9d?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Backend%20Dev-⚙️%20Professional-1e90ff?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-☁️%20AWS%20Intermediate-5dfbcb?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Testing%20%26%20CI%2FCD-✅%20Production%20Ready-7c5cff?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🤖%20Practical-ffa116?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+---
+
+## 🎯 Fun Facts & Interests
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-
-### Skills — Programming
-- C++ (STL, modern patterns)
-- Python (scripting, ML pipelines)
-- Java
-- C# (.NET ecosystem)
-- SQL (relational design & queries)
-
-### Web & APIs
-- HTML, CSS, JavaScript
-- ASP.NET MVC (enterprise patterns)
-- REST API design & authentication
-
-### Databases
-- MySQL
-- MongoDB
-
+    <td align="center">
+      ☕ Coffee fuels my best coding sessions
     </td>
-    <td width="50%" valign="top">
-
-### Cloud & DevOps
-- AWS: EC2, S3, IAM, Lambda, Route53
-- Docker (containerization & images)
-- Basic CI/CD and deployment pipelines
-
-### Tools
-- Git & GitHub workflows
-- VS Code, Visual Studio
-- Postman, Docker
-
-### Core Subjects
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems (OS)
-- Computer Networks
-- System Design
-
+    <td align="center">
+      🧩 Problem-solving is my favorite activity
+    </td>
+    <td align="center">
+      📚 Passionate about system design literature
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚀 Building production-like services excites me
+    </td>
+    <td align="center">
+      💡 C++ for performance, Python for rapid dev
+    </td>
+    <td align="center">
+      🔍 Observability & reliability obsession
     </td>
   </tr>
 </table>
 
 ---
 
-### Current Focus
+## 🤝 Collaboration & Contribution
 
-- Advanced algorithmic problem solving and pattern recognition
-- System Design fundamentals and architecture patterns
-- Distributed systems principles and failure modes
-- Microservices: API gateways, observability, scaling
-- Docker & Kubernetes essentials
-- Production-grade practices: monitoring, logging, resilience
+I'm actively seeking:
+- 🎓 **Mentorship** from experienced engineers
+- 👥 **Code reviews** and pair-programming sessions
+- 🔓 **Open-source opportunities** in backend/data tooling
+- 💼 **Full-time roles** in SDE, backend, cloud, or ML infrastructure
 
-### Learning Roadmap
-<details>
-  <summary>Click to expand: Learning plan & priorities</summary>
+**How to reach out:**
+- Open an issue in any of my repos
+- Connect on LinkedIn with context
+- Email with role details and tech stack
+- Share technical discussions, diagrams, or sample data
 
-  - Advanced DSA: graphs, trees, segment trees, suffix arrays, heavy-light decomposition
-  - System Design: database partitioning, caching, message queues, rate limiting
-  - Distributed Systems: consensus algorithms (Raft/Paxos), replication strategies
-  - Microservices: design for idempotency, eventual consistency, and service contracts
-  - Containers & Orchestration: multi-stage Docker builds, Kubernetes patterns
-  - Cloud: IaC basics, serverless pattern design (AWS Lambda), security best practices
-  - ML: experimenting with feature stores, model serving, and inference latency optimization
+---
+
+## 📋 Repository Structure
+
+<details open>
+  <summary><b>📁 Suggested Organization</b></summary>
+
+```
+er-shubham-raj/
+├── /projects          → Project-specific READMEs & demos
+├── /resumes           → Resume PDFs (public version)
+├── /diagrams          → Architecture diagrams (SVG/Mermaid)
+├── /algorithms        → DSA solutions & explanations
+├── /system-design     → Design notes & implementations
+└── README.md          → This profile
+```
 
 </details>
 
 ---
 
-## Selected Projects
-
-Below are project summaries with technical highlights. Expand each for details, design notes, and implementation pointers.
-
-### 1) SR Library — Enterprise Smart Library Management System
-- Role: Full-stack design & backend implementation
-- Tech: C#, ASP.NET MVC, SQL Server, Bootstrap
-- Features:
-  - Authentication & Authorization (Role-based)
-  - Book Issue / Return workflow with logging
-  - Fine management system & overdue tracking
-  - Administrative Dashboard & Reports
-- Highlights:
-  - Normalized DB schema with indexes for search
-  - Secure password storage and session handling
-  - Reports exportable as CSV/PDF for administrative workflows
-
-<details>
-  <summary>SR Library — Technical details</summary>
-
-  Architecture & design notes:
-  - MVC pattern with repository and service layers for testability
-  - Stored procedures for complex report generation and aggregate computations
-  - Caching layer for commonly requested book metadata
-  - Unit tests for core services and integration tests for DB interactions
-
-  Implementation checklist:
-  - [x] Authentication & roles
-  - [x] Book lifecycle management
-  - [x] Dashboard & reporting
-  - [x] Export utilities
-
-  Future improvements:
-  - Migrate to microservices for scale
-  - Add async background processing for bulk operations
-  - Add role-based audit trail and immutable logs
-
-</details>
-
----
-
-### 2) VitalVision — AI Patient Risk Prioritization
-- Role: Data engineer & ML modeler
-- Tech: Python, Flask, Pandas, Scikit-learn
-- Features:
-  - Risk prediction model for triage prioritization
-  - REST API for predictions and batch scoring
-  - Data pipeline for cleaning and feature engineering
-- Highlights:
-  - Emphasis on model explainability (feature importance)
-  - Dockerized inference service for reproducible deployments
-
-<details>
-  <summary>VitalVision — Technical details</summary>
-
-  - Modeling: tried logistic regression and tree-based ensembles, evaluated via ROC-AUC and calibration
-  - Preprocessing: robust handling of missing clinical fields, reproducible feature pipelines
-  - Deployment: Flask API with input validation and rate limiting
-  - Observability: model monitoring for input drift (basic approach)
-
-  Lessons learned:
-  - Feature standardization and consistent schema saved iteration time
-  - Transparent model outputs (probability, top features) improved clinician trust
-
-</details>
-
----
-
-### 3) Product Management System
-- Tech: ASP.NET MVC, SQL Server
-- Features: CRUD, authentication, role-based access control
-- Focus: pragmatic architecture for a small enterprise product management workflow
-
-<details>
-  <summary>Product Management System — Technical details</summary>
-
-  - Patterns: repository and unit-of-work, dependency injection
-  - Security: role checks at controller & service layer; action filters
-  - Logging: structured logs for auditing user actions
-
-</details>
-
----
-
-### Projects — code & diagrams
-- For code samples and architecture diagrams, raise an issue or open a PR in this repo. I will provide design rationales, sequence diagrams (Mermaid), and code walkthroughs on request.
-
----
-
-<!-- GitHub statistics & visual blocks -->
+<!-- Animated Wave Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-shubham-raj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-shubham-raj&theme=react-dark&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-shubham-raj&hide_border=true&theme=radical&langs_count=8&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=er-shubham-raj&theme=discord&no-frame=true&margin-w=8" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=er-shubham-raj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-### Competitive Programming & Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/Shubham-Raj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Shubham--Raj-ffa116?style=flat&logo=leetcode&logoColor=fff" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-YOUR_HACKERRANK_USERNAME-2EC866?style=flat&logo=hackerrank&logoColor=fff" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-YOUR_CODECHEF_USERNAME-005aa7?style=flat&logo=codechef&logoColor=fff" alt="CodeChef" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-YOUR_GFG_USERNAME-35bf6b?style=flat&logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks" />
-  </a>
-</p>
-
----
-
-### Achievements & Certifications
-
-- [Placeholder] Winner — College Hackathon (Add title & date)
-- AWS Cloud — add certification link here
-- DSA specialization — add certificate link
-
-<details>
-  <summary>Certifications — Expand for details</summary>
-
-  - AWS Certified Cloud Practitioner — [link to cert]
-  - Data Structures & Algorithms — [link to cert or course]
-  - Additional certifications (list provider & link)
-
-</details>
-
----
-
-### Open Source & Hackathons
-
-- Contributor to small and medium open-source projects focused on backend reliability and API improvements
-- Participated in college-level hackathons and online hackathons; experience with product-driven prototyping
-
-<details>
-  <summary>Open source highlights</summary>
-
-  - Example PR: Improved API performance by optimizing DB queries (link placeholder)
-  - Example PR: Added input validation and tests to public utility library (link placeholder)
-
-</details>
-
----
-
-### Experience (Academic / Project)
-
-- Student Developer — college projects and real-world internships (describe role & responsibilities in repo or resume)
-- Freelance / volunteer backend work: API modules, ETL scripts, small infra automation
-
----
-
-## Recruiter-friendly snapshot
-
-- Title: Software Development Engineer — Backend / Cloud
-- Education: B.Tech - Computer Science (Final Year)
-- Location: India — Available for relocation & remote
-- Preferred languages: C++, Python, C#
-- Cloud: AWS basics to intermediate (EC2, S3, Lambda, IAM)
-- Looking for: Full-time SDE roles with a focus on backend, platform, or ML infra
-
----
-
-### Resume & Contact
-
-- Resume: add a public link (e.g., /resumes/Shubham-Raj-Resume.pdf)
-- Email: er.rajshubham@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shubham-raj-a0979a289/
-- GitHub: https://github.com/er-shubham-raj
-
-For recruiters: Please email role details with required tech stack and I’ll respond with availability and a tailored resume.
-
----
-
-### Fun Facts
-
-- Favorite languages: C++ for performance, Python for rapid prototyping
-- I enjoy system design reading and building small, production-like services
-- Coffee and problem-solving fuel my best coding sessions ☕️🧩
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Strong-2bffc6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-Learning-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-7c5cff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-APIs-00d1b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-&-CI-CD-5dfbcb?style=for-the-badge" />
-</p>
-
----
-
-<details>
-  <summary>More — Tools, Libraries, Interests</summary>
-
-- Version control: Git, GitHub Actions basics
-- Editors: VS Code, Visual Studio
-- Libraries: Pandas, Scikit-learn
-- Testing: unit testing patterns & integration checks
-- Interests: Observability, reliability, ML inference at scale
-
-</details>
-
----
-
-### Collaboration & Contribution
-
-I welcome:
-- Mentorship, code reviews, and pair-programming sessions
-- Open-source maintainers seeking contributors in backend or data tooling
-- Recruiters hiring for backend/cloud/ML infra
-
-How to collaborate:
-- Open an issue in a repo you want help with
-- Ping me via LinkedIn or email with context and tech stack
-- Share diagrams or sample data for deeper technical discussions
-
----
-
-### Privacy & Accessibility
-
-- This README is built for clarity and accessibility: structured sections, clear headings, and concise bullets for quick scanning
-- Need a text-only or accessible resume? Email and I’ll provide one
-
----
-
-<!-- Animated wave footer (subtle) -->
-<p align="center">
-  <svg width="100%" height="120px" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;">
+  <svg width="100%" height="100px" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;">
     <defs>
       <linearGradient id="grad" x1="0" x2="1">
-        <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.15">
-          <animate attributeName="stop-opacity" values="0.15;0.35;0.15" dur="6s" repeatCount="indefinite" />
+        <stop offset="0%" stop-color="#2bffc6" stop-opacity="0.2">
+          <animate attributeName="stop-opacity" values="0.2;0.4;0.2" dur="8s" repeatCount="indefinite" />
         </stop>
-        <stop offset="50%" stop-color="#00d1b2" stop-opacity="0.12">
-          <animate attributeName="stop-opacity" values="0.12;0.30;0.12" dur="6s" repeatCount="indefinite" />
+        <stop offset="50%" stop-color="#ff6b9d" stop-opacity="0.15">
+          <animate attributeName="stop-opacity" values="0.15;0.35;0.15" dur="8s" repeatCount="indefinite" />
         </stop>
-        <stop offset="100%" stop-color="#1e90ff" stop-opacity="0.1">
-          <animate attributeName="stop-opacity" values="0.1;0.25;0.1" dur="6s" repeatCount="indefinite" />
+        <stop offset="100%" stop-color="#1e90ff" stop-opacity="0.2">
+          <animate attributeName="stop-opacity" values="0.2;0.4;0.2" dur="8s" repeatCount="indefinite" />
         </stop>
       </linearGradient>
     </defs>
 
     <path d="M0,40 C150,120 350,0 600,40 C850,80 1050,0 1200,40 L1200,120 L0,120 Z" fill="url(#grad)">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-15 0" to="15 0" dur="6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-20 0" to="20 0" dur="10s" repeatCount="indefinite" />
     </path>
 
-    <path d="M0,44 C160,100 360,10 600,46 C840,80 1040,10 1200,44 L1200,120 L0,120 Z" fill="#0b1220" fill-opacity="0.04"></path>
+    <path d="M0,50 C160,110 360,10 600,50 C840,85 1040,10 1200,50 L1200,120 L0,120 Z" fill="#0b1220" fill-opacity="0.05"></path>
   </svg>
 </p>
 
-<p align="center" style="font-size:12px; color:#9aa0a6;">Built with clarity and performance in mind — Shubham Raj • © 2026</p>
+<div align="center">
+  <b>Built with 💻 passion and ✨ attention to detail</b><br>
+  <sub>Last Updated: January 2026 | MIT License | Open to Feedback & PRs</sub><br>
+  <img src="https://img.shields.io/badge/Status-Actively%20Hiring-2bffc6?style=flat&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-ff6b9d?style=flat&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Issues-Open-1e90ff?style=flat&labelColor=1a1a2e" />
+</div>
 
 ---
 
 <details>
-  <summary>Repository notes, license & contribution guide</summary>
+  <summary><b>📖 Additional Info & License</b></summary>
 
-- License: MIT (change as preferred)
-- Contribution: Open an issue or PR with a short description
-- Repo structure suggestion:
-  - /projects — project READMEs & diagrams
-  - /resumes — store resume PDF if desired
-  - /diagrams — architecture diagrams (SVG/Mermaid)
+**License:** MIT (modify as per your preference)
+
+**Contribution Guide:**
+- Fork the repository
+- Create a feature branch
+- Submit a PR with clear description
+- Star ⭐ if you found it helpful!
+
+**Feedback & Improvements:**
+- Suggestions welcome via issues
+- Enhancement PRs are appreciated
+- Let's improve this profile together
+
+---
+
+**Version History:**
+- v2.0 (Jan 2026): Complete redesign with modern aesthetics
+- v1.0 (Original): Initial professional README
 
 </details>
 
-<!-- End of README -->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-ff6b9d?style=flat&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/stars/er-shubham-raj/er-shubham-raj?style=flat&labelColor=1a1a2e" />
+</p>
