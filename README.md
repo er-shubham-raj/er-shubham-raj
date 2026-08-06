@@ -1,5 +1,5 @@
 ---
-"Shubham Raj — GitHub Profile README"
+Shubham Raj — GitHub Profile README
 ---
 
 <!-- Animated Header Banner -->
